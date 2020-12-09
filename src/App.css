@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+.addTask{
+  width: 50%;
+  text-align: center;
+  background: rgb(255, 217, 2);
+  margin: 5% auto;
+  border-radius: 30px;
+}
+.addTask h3{
+  color: white;
+  padding: 20px 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+.addTask button{
+  font-weight: bolder;
+  width: 30%;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 20px;
+}
+/* .inputAddTask{
+  margin: 10px;
+} */
+.inputAddTask input{
+  width: 90%;
+  border-radius: 10px;
+  padding-left: 20px ;
+  height: 30px;
+}
+.list-items{
+  width: 50%;
+  margin: auto;
+  border-radius: 20px;
+  padding: 20px 0;
+  background:gold;
+}
+.checkboxCustom{
+  
+}
